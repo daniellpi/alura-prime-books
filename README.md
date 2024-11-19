@@ -1,1 +1,1 @@
-# alura-prime-books
+# flashcard-prime
